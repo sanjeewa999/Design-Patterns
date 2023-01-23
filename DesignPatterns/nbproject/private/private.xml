@@ -3,11 +3,16 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/wamp64/www/Design-Patterns/DesignPatterns/src/Adaptor/ComplexNameInterface.java</file>
             <file>file:/C:/wamp64/www/Design-Patterns/DesignPatterns/src/Decorator/ComDVD.java</file>
+            <file>file:/C:/wamp64/www/Design-Patterns/DesignPatterns/src/Adaptor/SimpleName.java</file>
             <file>file:/C:/wamp64/www/Design-Patterns/DesignPatterns/src/Singleton/SingletonDemo.java</file>
             <file>file:/C:/wamp64/www/Design-Patterns/DesignPatterns/src/Factory/Rectangle.java</file>
             <file>file:/C:/wamp64/www/Design-Patterns/DesignPatterns/src/Factory/Squre.java</file>
+            <file>file:/C:/wamp64/www/Design-Patterns/DesignPatterns/src/Adaptor/ComplexNameClass.java</file>
+            <file>file:/C:/wamp64/www/Design-Patterns/DesignPatterns/src/Adaptor/MyAdaptorDemo.java</file>
             <file>file:/C:/wamp64/www/Design-Patterns/DesignPatterns/src/Factory/ShapeFactory.java</file>
+            <file>file:/C:/wamp64/www/Design-Patterns/DesignPatterns/src/Adaptor/SimpleNameInterface.java</file>
             <file>file:/C:/wamp64/www/Design-Patterns/DesignPatterns/src/Fazade/MyfazadeDemo.java</file>
             <file>file:/C:/wamp64/www/Design-Patterns/DesignPatterns/src/Decorator/Computer.java</file>
             <file>file:/C:/wamp64/www/Design-Patterns/DesignPatterns/src/Fazade/DifficultReg.java</file>
@@ -15,6 +20,7 @@
             <file>file:/C:/wamp64/www/Design-Patterns/DesignPatterns/src/Factory/Shape.java</file>
             <file>file:/C:/wamp64/www/Design-Patterns/DesignPatterns/src/Decorator/ComputerDecorator.java</file>
             <file>file:/C:/wamp64/www/Design-Patterns/DesignPatterns/src/Decorator/MyDecoratorDemo.java</file>
+            <file>file:/C:/wamp64/www/Design-Patterns/DesignPatterns/src/Adaptor/SimpeToComplexAdaptor.java</file>
             <file>file:/C:/wamp64/www/Design-Patterns/DesignPatterns/src/Factory/Circle.java</file>
             <file>file:/C:/wamp64/www/Design-Patterns/DesignPatterns/src/Decorator/ComputerWithMonitor.java</file>
             <file>file:/C:/wamp64/www/Design-Patterns/DesignPatterns/src/Factory/FactoryDemo.java</file>
